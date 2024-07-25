@@ -41,3 +41,9 @@ print(numbers)
 del numbers
 #print(numbers) "cinco"]
 print(type(numbers))
+
+
+
+
+
+
