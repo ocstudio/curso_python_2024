@@ -1,0 +1,8 @@
+Dimensiones 
+
+las dimensiones estructuran datos para calculos
+complejos e insights valiosos.
+
+ejemplo temperatura de ciudad 
+
+
